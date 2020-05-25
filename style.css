@@ -1,0 +1,21 @@
+.description{
+  color: brown;
+  margin-left: 25px;
+  font-size: 25px;
+}
+
+* {
+   outline: 2px solid brown !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.app{
+  display: -webkit-flex;
+  display: flex;
+}
